@@ -7,4 +7,4 @@ require (
 	github.com/johnnyzhao801/demo/handlers v0.0.0
 )
 
-replace github.com/johnnyzhao801/demo/handlers v0.0.0 => ../handlers
+//replace github.com/johnnyzhao801/demo/handlers v0.0.0 => ../handlers

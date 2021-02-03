@@ -7,4 +7,4 @@ require (
 	github.com/johnnyzhao801/demo/router v0.0.0
 )
 
-replace github.com/johnnyzhao801/demo/router v0.0.0 => ./router
+//replace github.com/johnnyzhao801/demo/router v0.0.0 => ./router

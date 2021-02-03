@@ -32,7 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/johnnyzhao801/demofff">
+  <component name="RunManager" selected="Go Build.go build github.com/johnnyzhao801/demo">
     <configuration name="go build demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$" />
@@ -62,8 +62,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build github.com/johnnyzhao801/demofff" />
         <item itemvalue="Go Build.go build github.com/johnnyzhao801/demo" />
+        <item itemvalue="Go Build.go build github.com/johnnyzhao801/demofff" />
         <item itemvalue="Go Build.go build demo" />
       </list>
     </recent_temporary>
